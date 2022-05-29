@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="210mm"
    height="297mm"
    viewBox="0 0 210 297"
    version="1.1"
    id="svg8"
-   inkscape:version="1.0.1 (1.0.1+r74)"
-   sodipodi:docname="MIL-gates.svg">
+   inkscape:version="1.1.2 (1:1.1+202202050950+0a00cf5339)"
+   sodipodi:docname="MIL-gates.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -23,9 +23,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2"
-     inkscape:cx="77.66614"
-     inkscape:cy="203.09248"
+     inkscape:zoom="1"
+     inkscape:cx="452"
+     inkscape:cy="316"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -54,7 +54,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -107,49 +107,79 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.38667px;line-height:0%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282223px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="32.906292"
-       y="21.918924"
+       x="28"
+       y="22.919138"
        id="text5257"><tspan
          sodipodi:role="line"
-         x="32.906292"
-         y="21.918924"
+         x="28"
+         y="22.919138"
          id="tspan5261"
          style="font-size:5.64444px;line-height:1.25;stroke-width:0.282223px">MIL Symbols By Hirayama</tspan><tspan
          sodipodi:role="line"
-         x="32.906292"
-         y="28.974474"
+         x="28"
+         y="29.974688"
          style="font-size:5.64444px;line-height:1.25;stroke-width:0.282223px"
-         id="tspan4238">Time-stamp: 2018-12-19</tspan><tspan
+         id="tspan4238">Time-stamp: 2022-05-19</tspan><tspan
          sodipodi:role="line"
-         x="32.906292"
-         y="36.691902"
+         x="28"
+         y="37.69278"
          style="font-size:5.64444px;line-height:1.25;stroke-width:0.282223px"
          id="tspan4232">サイズはミリメートル単位</tspan><tspan
          sodipodi:role="line"
-         x="32.906292"
-         y="44.409332"
+         x="28"
+         y="45.41087"
          style="font-size:5.64444px;line-height:1.25;stroke-width:0.282223px"
-         id="tspan4240">使用時の注意</tspan><tspan
+         id="tspan4240">使用時の注意:</tspan><tspan
          sodipodi:role="line"
-         x="32.906292"
-         y="52.126759"
+         x="28"
+         y="53.12896"
          style="font-size:5.64444px;line-height:1.25;stroke-width:0.282223px"
          id="tspan4230">・配置時もミリメートル単位のグリッドにスナップさせること。</tspan><tspan
          sodipodi:role="line"
-         x="32.906292"
-         y="59.844189"
+         x="28"
+         y="60.847046"
          style="font-size:5.64444px;line-height:1.25;stroke-width:0.282223px"
          id="tspan4246">・幾何学的境界枠を設定してから使うこと。</tspan><tspan
          sodipodi:role="line"
-         x="32.906292"
-         y="67.561615"
+         x="28"
+         y="68.56514"
          style="font-size:5.64444px;line-height:1.25;stroke-width:0.282223px"
-         id="tspan4250">（編集→Inkscapeの設定→ツール→使用する境界枠→幾何学的境界枠）</tspan><tspan
+         id="tspan4250">（編集→環境設定→ツール→使用する境界枠→幾何学的境界枠）</tspan><tspan
          sodipodi:role="line"
-         x="32.906292"
-         y="75.279045"
+         x="28"
+         y="76.283226"
          style="font-size:5.64444px;line-height:1.25;stroke-width:0.282223px"
-         id="tspan4256">これをしないとサイズや位置に目に見えるほどの誤差やズレが発生する。</tspan></text>
+         id="tspan4256">これをしないとサイズや位置に目に見えるほどの誤差やズレが発生する。</tspan><tspan
+         sodipodi:role="line"
+         x="28"
+         y="83.338776"
+         style="font-size:5.64444px;line-height:1.25;stroke-width:0.282223px"
+         id="tspan4012">The size unit is the millimeter.</tspan><tspan
+         sodipodi:role="line"
+         x="28"
+         y="90.394325"
+         style="font-size:5.64444px;line-height:1.25;stroke-width:0.282223px"
+         id="tspan5922">Precautions for use:</tspan><tspan
+         sodipodi:role="line"
+         x="28"
+         y="97.449875"
+         style="font-size:5.64444px;line-height:1.25;stroke-width:0.282223px"
+         id="tspan9252">- Snap the objects to the grid in the millimeter unit.</tspan><tspan
+         sodipodi:role="line"
+         x="28"
+         y="104.50542"
+         style="font-size:5.64444px;line-height:1.25;stroke-width:0.282223px"
+         id="tspan9256">- Set the 'Geometric bounding box' before use: </tspan><tspan
+         sodipodi:role="line"
+         x="28"
+         y="111.56098"
+         style="font-size:5.64444px;line-height:1.25;stroke-width:0.282223px"
+         id="tspan4527">   Edit -&gt; Preferences -&gt; Tools -&gt; Geometric bounding box, </tspan><tspan
+         sodipodi:role="line"
+         x="28"
+         y="118.61653"
+         style="font-size:5.64444px;line-height:1.25;stroke-width:0.282223px"
+         id="tspan4529">   otherwise terrible distortions and gaps will occour.</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.38667px;line-height:0%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282223px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -165,7 +195,22 @@
          x="6.7450628"
          y="157.79089"
          id="tspan5261-7"
-         style="font-size:5.64444px;line-height:1.25;stroke-width:0.282223px">横幅が整数値でないので、お薦めしない。</tspan></text>
+         style="font-size:5.64444px;line-height:1.25;stroke-width:0.282223px">横幅が整数値でないので、お薦めしない。</tspan><tspan
+         sodipodi:role="line"
+         x="6.7450628"
+         y="164.84645"
+         style="font-size:5.64444px;line-height:1.25;stroke-width:0.282223px"
+         id="tspan16108">Although this OR gate is the exact shape defined by the MIL standard, </tspan><tspan
+         sodipodi:role="line"
+         x="6.7450628"
+         y="171.90199"
+         style="font-size:5.64444px;line-height:1.25;stroke-width:0.282223px"
+         id="tspan22128">it is not recommended for use.</tspan><tspan
+         sodipodi:role="line"
+         x="6.7450628"
+         y="178.95755"
+         style="font-size:5.64444px;line-height:1.25;stroke-width:0.282223px"
+         id="tspan16110">The reason is that the width is not an integer but a decimal fraction.</tspan></text>
     <g
        id="g5376"
        transform="matrix(0.26458333,0,0,0.26458333,-15.000406,9.999798)">
@@ -201,12 +246,12 @@
        r="1.0000006" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.600001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 20,179.99979 c 9.999998,0 9.999998,0 9.999998,0"
+       d="m 20,217.00203 c 9.999998,0 9.999998,0 9.999998,0"
        id="path5247-2"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.600001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 42.000002,199.99979 h 4 v -4 l -20.000003,-8.00001 v -4 h 3.999999"
+       d="m 42.000002,237.00203 h 4 v -4 l -20.000003,-8.00001 v -4 h 3.999999"
        id="path5247-2-3"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccc" />
@@ -214,45 +259,45 @@
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.600001;stroke-linejoin:miter;stroke-miterlimit:11.474;stroke-dasharray:none;stroke-dashoffset:0.75;stroke-opacity:1"
        id="path4668-9-9-6-7"
        cx="41"
-       cy="181.99977"
+       cy="219.00201"
        r="1.0000006" />
     <circle
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.600001;stroke-linejoin:miter;stroke-miterlimit:11.474;stroke-dasharray:none;stroke-dashoffset:0.75;stroke-opacity:1"
        id="path4668-9-9-6-7-8"
        cx="41"
-       cy="199.99979"
+       cy="237.00203"
        r="1.0000006" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.600001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 42.000005,181.99978 h 4 v 4 l -20.000005,8 v 4 h 3.999998"
+       d="m 42.000005,219.00202 h 4 v 4 l -20.000005,8 v 4 h 3.999998"
        id="path5247-2-3-0"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccc" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.600001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 19.999999,201.99978 c 9.999999,0 9.999999,0 9.999999,0"
+       d="m 19.999999,239.00202 c 9.999999,0 9.999999,0 9.999999,0"
        id="path5247-2-8"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.600001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 46.000002,181.99978 c 5.999999,0 5.999999,0 5.999999,0"
+       d="m 46.000002,219.00202 c 5.999999,0 5.999999,0 5.999999,0"
        id="path5247-2-8-4"
        inkscape:connector-curvature="0" />
     <circle
        style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linejoin:miter;stroke-miterlimit:11.474;stroke-dasharray:none;stroke-dashoffset:0.75;stroke-opacity:1"
        id="path4668-9-2-6"
        cx="45.999992"
-       cy="181.99977"
+       cy="219.00201"
        r="1.0000048" />
     <path
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.600001;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.75;stroke-opacity:1"
-       d="m 100.0004,178.00001 v 7.99977 h 5.99998 A 3.9999999,3.9999999 0 0 0 110,181.99962 a 3.9999999,3.9999999 0 0 0 -3.99962,-3.99961 z"
+       d="m 100.0004,215.00225 v 7.99977 h 5.99998 A 3.9999999,3.9999999 0 0 0 110,219.00186 a 3.9999999,3.9999999 0 0 0 -3.99962,-3.99961 z"
        id="path4668-6-0"
        inkscape:connector-curvature="0" />
     <g
        id="g5253-2"
        style="stroke-width:2.12598;stroke-miterlimit:11.474;stroke-dasharray:none"
-       transform="matrix(0.26443236,0,0,0.26458333,58.030241,124.99777)">
+       transform="matrix(0.26443236,0,0,0.26458333,58.030241,162.00001)">
       <path
          inkscape:connector-curvature="0"
          id="rect4605-6-3-8-7"
@@ -267,43 +312,43 @@
     </g>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.600001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 110.00001,181.99978 c 13.99999,0 13.99999,0 13.99999,0"
+       d="m 110.00001,219.00202 c 13.99999,0 13.99999,0 13.99999,0"
        id="path5247-2-0"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.600001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 111.08564,193.99741 c 12.91436,0 12.91436,0 12.91436,0"
+       d="m 111.08564,230.99965 c 12.91436,0 12.91436,0 12.91436,0"
        id="path5247-2-2"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.600001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 80.000003,179.99979 c 19.999997,0 19.999997,0 19.999997,0"
+       d="m 80.000003,217.00203 c 19.999997,0 19.999997,0 19.999997,0"
        id="path5247-2-23"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.600001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 80,195.99741 c 21.08564,0 21.08564,0 21.08564,0"
+       d="m 80,232.99965 c 21.08564,0 21.08564,0 21.08564,0"
        id="path5247-2-22"
        inkscape:connector-curvature="0" />
     <path
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.600001;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.75;stroke-opacity:1"
-       d="m 30.000024,178.00001 v 7.99977 h 5.99998 a 3.9999999,3.9999999 0 0 0 3.999619,-4.00016 3.9999999,3.9999999 0 0 0 -3.999619,-3.99961 z"
+       d="m 30.000024,215.00225 v 7.99977 h 5.99998 a 3.9999999,3.9999999 0 0 0 3.999619,-4.00016 3.9999999,3.9999999 0 0 0 -3.999619,-3.99961 z"
        id="path4668-6-1"
        inkscape:connector-curvature="0" />
     <path
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.600001;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.75;stroke-opacity:1"
-       d="m 29.999998,195.99979 v 7.99978 h 5.999982 a 3.9999999,3.9999999 0 0 0 3.999619,-4.00017 3.9999999,3.9999999 0 0 0 -3.999619,-3.99961 z"
+       d="m 29.999998,233.00203 v 7.99978 h 5.999982 a 3.9999999,3.9999999 0 0 0 3.999619,-4.00017 3.9999999,3.9999999 0 0 0 -3.999619,-3.99961 z"
        id="path4668-6-1-7"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.600001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 96.000005,179.99979 v 12 l 5.085645,-0.002"
+       d="m 96.000005,217.00203 v 12 l 5.085645,-0.002"
        id="path5247-2-22-8-5"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.600001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 93.000003,195.99978 v -12 l 7.085647,0.002"
+       d="m 93.000003,233.00202 v -12 l 7.085647,0.002"
        id="path5247-2-22-8-5-0"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc" />
@@ -311,7 +356,7 @@
        style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linejoin:miter;stroke-miterlimit:11.474;stroke-dasharray:none;stroke-dashoffset:0.75;stroke-opacity:1"
        id="path4668-9-2-6-6"
        cx="96"
-       cy="179.99979"
+       cy="217.00203"
        r="1.0000048" />
     <circle
        style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linejoin:miter;stroke-miterlimit:11.474;stroke-dasharray:none;stroke-dashoffset:0.75;stroke-opacity:1"
@@ -325,6 +370,6 @@
        width="29.999998"
        height="30.000002"
        x="87.000008"
-       y="172.99977" />
+       y="210.00201" />
   </g>
 </svg>
